@@ -1,0 +1,8 @@
+name: "PDostal GitHub.IO"
+description: "pdostal.github.io"
+
+port: 3000
+production: true
+url: "http://pdostal.github.io"
+
+exclude: ["Gemfile*", "LICENSE", "README.md"]
